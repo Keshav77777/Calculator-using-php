@@ -64,7 +64,7 @@
     <h1>Temperature Coversion</h1>
     <div class="main-div">
         <div class="left">
-            <img src="images/img.jpg" alt="">
+            <img src="img.jpg" alt="">
         </div>
         
         <div class="right">
