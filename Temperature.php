@@ -88,11 +88,11 @@
                     $temp=$_POST['units'];
                     if($temp=='cel'){
                         $result=$num*9/5+32;
-                        echo "The value of Cel in Faren is: {$result}";
+                        echo "The value of Cel in Farenheit is: {$result}";
                     }
                     else{
                         $result=($num-32)*5/9;
-                        echo "The value of Fare in Cel is: {$result}";
+                        echo "The value of Fare in Celcius is: {$result}";
                     }
                 }
                 ?>
